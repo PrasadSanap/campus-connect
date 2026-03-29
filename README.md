@@ -38,8 +38,9 @@ campus-connect/
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/PrasadSanap/campus-connect.git
+---
 
-2. Install dependencies
+### 2. Install dependencies
 cd campus-connect/backend
 npm install
 
